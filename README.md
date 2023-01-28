@@ -1,2 +1,3 @@
 # face-ook2020
-mohamed.py
+cd Crack-FB2020.py
+python Crack-FB2020.py
